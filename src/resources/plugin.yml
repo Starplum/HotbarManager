@@ -1,0 +1,7 @@
+main: network.starplum.HotbarManager
+name: Hotbar
+version: 1
+
+description: §8* §fJust a simple internal tool for managing hotbars.
+author: iDevMC
+website: https://starplum.network
